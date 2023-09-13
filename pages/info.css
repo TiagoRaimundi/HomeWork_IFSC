@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+}
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  background-color: #d4d4d4;
+  
+}
+.logo{
+    height: 150px;
+    margin: 10px;
+}
+
+
+.input{
+    float: right;
+    background-image: url("lupa.png");
+    margin: 30px;
+    background-position: right;
+    height: 40px;
+    background-repeat: no-repeat;
+    width: 150px;
+    background-size: 20px 20px;
+
+
+    
+}
+header {
+  background-color: #ffffff;
+  color: #000000;
+  padding: 10px 20px;
+  margin: 0;
+  
+}
+
+h1 {
+  position: relative;  
+  font-size: 24px;
+  margin-bottom: 30px
+}
+
+nav {
+  display:flex;
+  
+ 
+}
+.campus{
+    height: 200px;
+    padding: 20px;
+}
+
+.p{
+    padding: 0px;
+    margin: 0px;
+   
+}
+
+ul {
+
+  list-style: none;
+  margin: 10px;
+  padding: 0;
+  margin-left: 400px;
+  float: left;
+  margin-left: 10px;
+
+}
+
+li {
+  margin-left: 10px;
+  display: inline-block;
+  margin-right: 10px;
+  
+}
+
+a {
+  
+  text-decoration: none;
+  color: #000000;
+  
+}
+
+a:hover {
+  background-color: #52eb00;
+  border-radius: 10px;
+  padding: 10px;
+  color: #000;
+}
+
+main {
+  padding: 60px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  margin: 10px 50px 50px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h2{
+  font-size: 18px;
+  margin-bottom: 40px;
+
+}
+
+h3{
+    font-size: 14px;
+    font-weight: bold;
+    padding: 20px;
+    
+}
+
+p {
+  margin-bottom: 10px;
+  
+  text-align: justify;
+  padding: 20px;
+}
+
+
+footer {
+  background-color: #047708;
+  color: #fff;
+
+  padding: 10px 20px;
+  text-align: center;
+  position: relative;
+  bottom: 0px;
+  margin: 0px;
+  
+
+}
+
+img{
+    position: relative;
+    bottom: 0px;
+    left: 0px;
+    margin: 0px;
+    height: 100px;
+
+    
+    
+}
